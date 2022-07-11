@@ -18,7 +18,7 @@ install.packages("bslib")
 2. Open the file -> run-Heart-Disease.r
 
 3. In line 3, setwd
-change the file directory to where this file is
+change the file directory to where this file is located in your local computer
 
 ## 3. Usage
 1. Open the file -> run-Heart-Disease.r
