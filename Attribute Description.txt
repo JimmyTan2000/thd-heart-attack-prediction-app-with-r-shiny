@@ -1,0 +1,16 @@
+https://www.kaggle.com/ronitf/heart-disease-uci?select=heart.csv
+
+1. age: age in years
+2. sex: 1 = male; 0 = female
+3. cp: chest pain type
+4. trestbps: resting blood pressure (in mm Hg on admission to the hospital)
+5. chol: serum cholestoral in mg/dl
+6. fbs: fasting blood sugar and gt; 120mg/dl, 1 = true; 0 = false
+7. restecg: resting electrocardiographic results
+8. thalach: maximum heart rate achieved
+9. exang: exercise induced angina, 1 = yes; 0 = no
+10. oldpeak: ST depression induced by exercise relative to rest
+11. slope: the slope of the peak exercise ST segment, 1 = upsloping; 2 = flat, 3 = downsloping
+12. ca: number of major vessels (0-4) coloured by flourosopy
+13. thal: 0 = null, 1 = normal; 2 = fixed defect; 3 = reversible defect
+14. target: diagnosis of heart disease (angiographic disease status), 0 = <50% diameter narrowing; 1 = >50% diameter narrowing
